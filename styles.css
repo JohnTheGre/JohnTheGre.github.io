@@ -19,12 +19,35 @@ footer{
     display: block;
     clear: both;
 }
+.Likes{
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+.donts{
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
 .interest{
     width: 20%;
     float: left;
     padding: 10px;
 }
+#p6{
+    text-align: center;
+}
+#p5{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font
+}
 article{
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+aside{
     width: 40%;
     float: left;
     padding: 10px;
@@ -76,5 +99,33 @@ header{
 }
 .navbar li{
     float: left;
+}
+@media screen and (max-width:600px){
+    aside, .interest, article{
+        width: 100%;
+    }
+}
+.dropdown button{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(217, 38, 38);
+}
+.header h2{
+    text-align: center;
+}
+.dropdown a{
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+.dropdown .down{
+    margin-left: 80%;
+    display: none;
+    background-color: blue;
+    position: absolute;
+    box-shadow: 2px 2px 5px; black
+}
+.dropdown:hover .down{
+    display:block;    
 }
 
