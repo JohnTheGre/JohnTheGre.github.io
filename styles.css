@@ -73,9 +73,10 @@ footer{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .more{
-    width: 10%;
+    /* width: 10%;
     float: left;
-    padding: 10px;
+    padding: 10px; */
+    text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #p6{
@@ -160,5 +161,9 @@ header{
     padding-right: 30px;
     margin: 50px;     
 }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
 
 
