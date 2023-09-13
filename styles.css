@@ -235,3 +235,15 @@ body {
     font-weight: 300;
     color: rgba(255, 255, 255, 0.75);
 }
+ .study-choice{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+
+}
+.study{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+}
