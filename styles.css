@@ -61,24 +61,6 @@ footer{
 .icons a{
     text-decoration: none;
 }
-.Likes{
-    width: 40%;
-    float: left;
-    padding: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.donts{
-    width: 40%;
-    float: left;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.more{
-    /* width: 10%;
-    float: left;
-    padding: 10px; */
-    text-align: left;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 #p6{
     text-align: center;
 }
