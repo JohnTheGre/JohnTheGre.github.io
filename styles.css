@@ -68,16 +68,6 @@ footer{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-article{
-    width: 20%;
-    float: left;
-    padding: 10px;
-}
-aside{
-    width: 40%;
-    float: left;
-    padding: 10px;
-}
 .representative ul{
     font-family: 'Times New Roman', Times, serif;
     color: blue;
