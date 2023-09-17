@@ -66,6 +66,9 @@ footer{
 }
 
 /* profile */
+.myself h1{
+    text-align: left;
+}
 .myself{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -101,7 +104,7 @@ H1{
 
 }
 .navbar ul{
-    background-color:  #0437F2;
+    background-color:  black;
     list-style: none;
     overflow: hidden;
 }
@@ -117,9 +120,6 @@ header{
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
-.navbar{
-    color: black;
-}
 .navbar a:hover{
     background-color: blue;
 }
@@ -129,6 +129,10 @@ header{
 .navbar li{
     float: left;
     color: blue;
+}
+.content{
+    border: 5px solid white;
+    border-radius: 20px;
 }
 @media screen and (max-width:600px){
     aside, .interest, article{
@@ -140,6 +144,17 @@ header{
 }
 
 /* FAQ and blog */
+.blog h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+}
+.blog p{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
 
 .document{
     border/*-bottom*/: 5px solid white;
