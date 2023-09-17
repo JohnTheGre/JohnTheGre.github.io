@@ -39,15 +39,15 @@ footer{
 }
 .games{
     border: solid;
-    border-radius: 0px;
+    border-radius: 20px;
     background-color: white;
     float: right;
 }
 .games a:hover{
-    background-color: red;
+    color: red;
 }
 .games a:active{
-    background-color: brown;
+    color: brown;
 }
 .fa-brands.fa-whatsapp{
     color: yellow;
