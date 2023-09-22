@@ -64,7 +64,24 @@ footer{
 .icons a{
     text-decoration: none;
 }
-
+aside{
+    width: 20%;
+    float: left;
+    border: solid 2px black;
+    border-radius: 20px;
+    background-color: black;
+    padding: 10px
+}
+aside a:hover{
+    color: purple;
+}
+aside a{
+    color: blue;
+    text-decoration: none;
+}
+aside a:active{
+    color: pink
+}
 /* profile */
 .myself h1{
     text-align: left;
