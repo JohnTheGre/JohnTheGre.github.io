@@ -151,17 +151,24 @@ footer{
     font-style: italic;
     list-style-type: none;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
 }
 .blog h2{
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     text-align: center;
-    color: white;
+    color: black;
 }
 .blog p{
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     text-align: center;
     color: white;
     font-size: 35px;
+}
+.strength-paragraph{
+    color: white;
+}
+.weakness-paragraph{
+    color: white;
 }
 .study-choice{
     font-size: large;
@@ -175,10 +182,23 @@ footer{
     color: black;
     text-align: center;
 }
+.body-programming-experience{
+    color: black;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.paragraph-programming-experience{
+    color: white;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .ict-field-of-body h1{
     text-align: left;
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.field-of-paragragh{
+    color: white;
 }
 
 
@@ -201,6 +221,9 @@ table{
     font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
     font-size: 20px;
     text-align: center;
+}
+.NBSA-paragraph{
+    color: white;
 }
 .nbsa-data{
     padding-top: 120px;
